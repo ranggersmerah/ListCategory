@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="list_category">List Category</string>
+    <string name="sorry_something_went_wrong">Sorry, something went wrong :(</string>
+    <string name="no_data_to_show">No Data To Show</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+</resources>
